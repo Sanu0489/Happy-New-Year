@@ -1,0 +1,39 @@
+{
+    "product":[
+       {
+        "id": 1,
+        "name": "Samsung Galaxy m13",
+        "color": "Black",
+        "Category":"Mobile",
+        "price": 13999,
+        "brand": "Samsung",
+        "image": "http://sc04.alicdn.com/kf/H18eea47e26534b3ca1d11b41714055baT.jpg"
+       },
+       {"id": 2,
+       "name": "Samsung Galaxy m13 4G",
+       "color": "Aqua Green",
+       "Category":"Mobile",
+       "price": 11999,
+       "brand": "Samsung",
+       "image": "http://sc04.alicdn.com/kf/H18eea47e26534b3ca1d11b41714055baT.jpg"
+
+       },
+       {"id": 3,
+       "name": "Samsung Galaxy m13 5G",
+       "color": "Aqua",
+       "Category":"Mobile",
+       "price": 13999,
+       "brand": "Samsung",
+       "image": "http://sc04.alicdn.com/kf/H18eea47e26534b3ca1d11b41714055baT.jpg"
+       },
+       {"id": 4,
+       "name": "One Plus Nord",
+       "color": "Black",
+       "Category":"Mobile",
+       "price": 19999,
+       "brand": "One plus",
+       "image": "http://sc04.alicdn.com/kf/H18eea47e26534b3ca1d11b41714055baT.jpg"
+       }
+
+    ]
+}
